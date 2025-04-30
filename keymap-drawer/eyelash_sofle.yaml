@@ -66,7 +66,7 @@ layers:
   - COPY
   - $$mdi:backspace-reverse-outline$$
   layer1:
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {h: '$$mdi:arrow-down-bold$$', s: '$$mdi:bluetooth-connect$$'}
   - F1
   - F2
   - F3
